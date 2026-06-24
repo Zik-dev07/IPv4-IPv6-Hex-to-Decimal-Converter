@@ -34,4 +34,3 @@ A Java console application that converts hexadecimal values to decimal for both 
 
 ## Author
 Meor Zikri.
-## Example
